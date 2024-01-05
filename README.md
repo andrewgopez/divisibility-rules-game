@@ -21,3 +21,14 @@ For a quick reference on divisibility rules, you can visit: https://www.palmbeac
 3. Apply divisibility rules to make educated guesses.
 4. Receive clues based on the divisibility of the guessed number.
 5. Continue guessing until the correct number is found.
+
+## Getting Started:
+To run the game locally, follow these steps:
+
+#### Clone the repository
+`git clone https://github.com/yourusername/divisibility-rules-game.git`
+Repace 'yourusername' with your GitHub username
+
+### Navigate to the project directory
+`cd divisibility-rules-game`
+
