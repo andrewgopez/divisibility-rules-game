@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Divisibility Rules Game\\Divisibility Rules Game.csproj": {}
+    "C:\\Users\\vince\\source\\repos\\divisibility-rules-game\\Divisibility Rules Game\\Divisibility Rules Game.csproj": {}
   },
   "projects": {
-    "D:\\Divisibility Rules Game\\Divisibility Rules Game.csproj": {
+    "C:\\Users\\vince\\source\\repos\\divisibility-rules-game\\Divisibility Rules Game\\Divisibility Rules Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Divisibility Rules Game\\Divisibility Rules Game.csproj",
+        "projectUniqueName": "C:\\Users\\vince\\source\\repos\\divisibility-rules-game\\Divisibility Rules Game\\Divisibility Rules Game.csproj",
         "projectName": "Divisibility Rules Game",
-        "projectPath": "D:\\Divisibility Rules Game\\Divisibility Rules Game.csproj",
-        "packagesPath": "C:\\Users\\Andrew G\\.nuget\\packages\\",
-        "outputPath": "D:\\Divisibility Rules Game\\obj\\",
+        "projectPath": "C:\\Users\\vince\\source\\repos\\divisibility-rules-game\\Divisibility Rules Game\\Divisibility Rules Game.csproj",
+        "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vince\\source\\repos\\divisibility-rules-game\\Divisibility Rules Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andrew G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vince\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

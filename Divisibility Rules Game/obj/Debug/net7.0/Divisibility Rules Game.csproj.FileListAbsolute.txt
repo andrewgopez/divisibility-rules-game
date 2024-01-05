@@ -26,3 +26,17 @@ D:\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.dll
 D:\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.pdb
 D:\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.genruntimeconfig.cache
 D:\Divisibility Rules Game\obj\Debug\net7.0\ref\Divisibility Rules Game.dll
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.exe
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.deps.json
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.runtimeconfig.json
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.dll
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\bin\Debug\net7.0\Divisibility Rules Game.pdb
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.AssemblyInfo.cs
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.dll
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\refint\Divisibility Rules Game.dll
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.pdb
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\Divisibility Rules Game.genruntimeconfig.cache
+C:\Users\vince\source\repos\divisibility-rules-game\Divisibility Rules Game\obj\Debug\net7.0\ref\Divisibility Rules Game.dll
