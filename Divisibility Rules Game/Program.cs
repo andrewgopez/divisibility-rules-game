@@ -21,7 +21,7 @@
                 {
                     if (guess == randomNumber)
                     {
-                        Console.WriteLine("Congratulaions! You guessed the correct number.");
+                        Console.WriteLine("Congratulations! You guessed the correct number.");
                         isCorrect = true;
                     }
                     else
@@ -42,9 +42,9 @@
         {
             Console.WriteLine("Here some clues to help you guess the number: \n");
 
-            for(int i = 1; i < 10; i++)
+            for(int i = 1; i <= 10; i++)
             {
-                if(number % i ==0)
+                if(number % i ==0 && number % number == 0)
                     Console.WriteLine($"The number is divisible by {i}");
             }
         }
