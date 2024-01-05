@@ -27,7 +27,7 @@ To run the game locally, follow these steps:
 
 #### Clone the repository
 `git clone https://github.com/yourusername/divisibility-rules-game.git`
-Repace 'yourusername' with your GitHub username
+Replace 'yourusername' with your GitHub username
 
 ### Navigate to the project directory
 `cd divisibility-rules-game`
