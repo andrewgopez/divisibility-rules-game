@@ -1,5 +1,16 @@
 # Divisibility Rules Game
 
+## Table of Contents:
+[Overview](https://github.com/andrewgopez/divisibility-rules-game?tab=readme-ov-file#overview)
+<br>
+[Divisiblity Rules](https://github.com/andrewgopez/divisibility-rules-game?tab=readme-ov-file#divisibility-rules)
+<br>
+[Features](https://github.com/andrewgopez/divisibility-rules-game?tab=readme-ov-file#features)
+<br>
+[Usage](https://github.com/andrewgopez/divisibility-rules-game?tab=readme-ov-file#features)
+<br>
+[Getting Started](https://github.com/andrewgopez/divisibility-rules-game?tab=readme-ov-file#features)
+
 ## Overview
 
 The Divisibility Rules Game is a fun and educational project designed to help users practice 
