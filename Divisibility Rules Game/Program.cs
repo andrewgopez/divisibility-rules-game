@@ -42,40 +42,11 @@
         {
             Console.WriteLine("Here some clues to help you guess the number: \n");
 
-            for(int i = 1; i <= 10; i++)
+            for(int i = 1; i <= number; i++)
             {
-                if(number % i ==0 && number % number == 0)
+                if(number % i == 0 && number % number == 0)
                     Console.WriteLine($"The number is divisible by {i}");
             }
         }
-
-        static bool IsDivisible(int number, int[] divisors)
-        {
-            foreach (int divisor in divisors)
-            {
-                if (number % divisor != 0) // if not divisible
-                {
-                    return false;
-                }
-            }
-            return true; // if divisible
-        }
-
-        static bool IsPrime(int number)
-        {
-            // Formula: 6n + 1
-
-            const int MAX = 50; 
-
-            for(int i = 7; i <= MAX; i += 6)
-            {
-                if(number % i == 0 || number % (i + 2) == 0)
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
-
     }
 }
